@@ -65,4 +65,4 @@ I tested with several frequency data obtained from open sources. Here are some t
 
 ![fim1](https://user-images.githubusercontent.com/80169619/134685041-8ce4598f-02d0-4ecc-b38a-221002c070f9.PNG)
 
-Data taken from http://www.mridata.org/.
+Data taken from mridata.org.
