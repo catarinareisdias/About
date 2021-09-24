@@ -10,7 +10,7 @@ Knowing nothing about this topic I soon started investigating on how medical ima
 
 ### Cooley-Tukey FFT
 
-The next step was to investigate how to optimize this computation. I found out we can make use of fast Fourier Transform algorithms. The most common FFT is the _Cooley-Tukey_ algorithm. It consists on a divide and conquer algorithm such that the lenght-_n_ transform is replaced by two transforms of lenght _n_/2. 
+The next step was to investigate how to optimize this computation. I found out we can make use of Fast Fourier Transform (FFT) algorithms. The most common FFT is the _Cooley-Tukey_ algorithm. It consists on a divide and conquer algorithm such that the lenght-_n_ transform is replaced by two transforms of lenght _n_/2. 
 
 ### Two different Implementations
 
