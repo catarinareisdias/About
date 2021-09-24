@@ -53,7 +53,7 @@ Also, if your input file does not have the zero frequency centered, the output w
 
 The 'Display Options' allows the user to resize the input image (in _x_ and _y_) and control the contrast with the 'Logaritmic gradient' and 'Per layer gradient' checkboxes. The later makes the color space only consider the current layer values instead of the whole domain.
 
-Finallly, one can choose to show or hide thae tables with numerical data - 'Show Data Tables' checkbox.
+Finallly, one can choose to show or hide the tables with numerical data - 'Show Data Tables' checkbox.
 
 All these options are also available in the Output section.
 
