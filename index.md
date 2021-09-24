@@ -6,8 +6,6 @@ I ended up choosing medical Image Reconstruction as my project. I chose it since
 
 ![intro3](https://user-images.githubusercontent.com/80169619/134684387-9d3d2279-9168-422c-8c91-1bb622c37ab4.PNG)
 
-
-
 Knowing nothing about this topic I soon started investigating on how medical images were being produced. I discovered pretty quickly that the mathematical basis was the discrete Fourier Transform. Of course a straightforward implementation could be readily made: imagine we start with a complex sequence of lenght _n_; to perform its transform we simply compute _n_ sums, each of length _n_. But this was too slow of a computation: _n_ squared operations.
 
 ### Cooley-Tukey FFT
