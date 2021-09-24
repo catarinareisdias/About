@@ -20,7 +20,7 @@ The idea for this last method lies on swapping elements whose indices are binary
 
 ### 2D FFT
 
-All these methods were tested in 1-dimensional data sets using MATLAB. Next I focused on a 2-dimensional FFT. The 2-dimensional transform can be cmputed by applying 1D transforms. Let's assume we have a 2D array. We can treat this array as an _N1xN2_ matrix. Then it is as easy as applying a 1D transform first on the rows and then on the columns - _row-column algorithm_.
+All these methods were tested in 1-dimensional data sets using MATLAB. Next I focused on a 2-dimensional FFT. The 2-dimensional transform can be computed by applying 1D transforms. Let's assume we have a 2D array. We can treat this array as an _N1xN2_ matrix. Then it is as easy as applying a 1D transform first on the rows and then on the columns - _row-column algorithm_.
 
 ### Graphic Interface
 
