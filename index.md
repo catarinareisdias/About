@@ -59,8 +59,6 @@ All these options are also available in the Output section.
 
 I tested with several frequency data obtained from open sources. Here are the reconstruction results!
 
-![rato](https://user-images.githubusercontent.com/80169619/134503857-fcd4b83e-aff9-44a8-96ab-cc18065c86d1.png)
-
 ![peemao](https://user-images.githubusercontent.com/80169619/134503879-d1cd5a01-752e-4530-a59c-8abeda95c405.PNG)
 
 ![maoetorso](https://user-images.githubusercontent.com/80169619/134503900-7b8c43d8-ba96-45f1-8024-b15383e2974f.PNG)
