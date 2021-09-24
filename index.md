@@ -14,7 +14,7 @@ The next step was to investigate how to optimize this computation. I found out w
 
 ### Two different Implementations
 
-I implemented two methods: a recursive and an iterative algorithm. The recursive algorithm needed _O(n)_ function calls to itself. These calls can be replaced by the iterative algorithm.
+I implemented two methods: a recursive and an iterative algorithm. The recursive algorithm needed _O(n)_ function calls to itself. These calls can be replaced by an iterative algorithm.
 
 The idea for this last method lies on swapping elements whose indices are binary reversals. First we swap the mutual reversals: for example, the element in position 1 (001 in binary) winds up in position 4 (100 in binary). Elements whose index is the  same reversed stay put, like index 2. Then we merge adjacent sublists where every sublist represents the half-size transform of the even or odd part of the full size transform.
 
