@@ -59,8 +59,10 @@ All these options are also available in the Output section.
 
 ### Results
 
-I tested with several frequency data obtained from open sources. Here are the reconstruction results!
+I tested with several frequency data obtained from open sources. Here are some the reconstruction results!
 
 ![peemao](https://user-images.githubusercontent.com/80169619/134682291-52227bb3-9d2c-4436-85c0-ed6475d6d760.PNG)
 
 ![fim1](https://user-images.githubusercontent.com/80169619/134685041-8ce4598f-02d0-4ecc-b38a-221002c070f9.PNG)
+
+Data taken from http://www.mridata.org/.
