@@ -4,7 +4,8 @@ In 2021 I was presented with a challenge: develop a project, all by myself, on a
 
 I ended up choosing medical Image Reconstruction as my project. I chose it since developing new mathematical tools to treat and vizualise data is really important nowadays to improve disease diagnosis and study the human body and brain. 
 
-![intro](https://user-images.githubusercontent.com/80169619/134683807-3b594f80-c461-438d-86a2-457413eb8ec7.png)
+![intro3](https://user-images.githubusercontent.com/80169619/134684387-9d3d2279-9168-422c-8c91-1bb622c37ab4.PNG)
+
 
 
 Knowing nothing about this topic I soon started investigating on how medical images were being produced. I discovered pretty quickly that the mathematical basis was the discrete Fourier Transform. Of course a straightforward implementation could be readily made: imagine we start with a complex sequence of lenght _n_; to perform its transform we simply compute _n_ sums, each of length _n_. But this was too slow of a computation: _n_ squared operations.
