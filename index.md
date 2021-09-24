@@ -60,9 +60,8 @@ All these options are also available in the Output section.
 I tested with several frequency data obtained from open sources. Here are the reconstruction results!
 
 ![peemao](https://user-images.githubusercontent.com/80169619/134503879-d1cd5a01-752e-4530-a59c-8abeda95c405.PNG)
-<p align="center">
-  <src="https://user-images.githubusercontent.com/80169619/134503900-7b8c43d8-ba96-45f1-8024-b15383e2974f.PNG">
-</p>
+
+![maoetorso](https://user-images.githubusercontent.com/80169619/134663824-641de289-3647-4966-8697-84cfc890e9ed.PNG)
 
 ### Computation Times
 
