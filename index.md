@@ -64,9 +64,3 @@ I tested with several frequency data obtained from open sources. Here are the re
 ![peemao](https://user-images.githubusercontent.com/80169619/134682291-52227bb3-9d2c-4436-85c0-ed6475d6d760.PNG)
 
 ![fim1](https://user-images.githubusercontent.com/80169619/134685041-8ce4598f-02d0-4ecc-b38a-221002c070f9.PNG)
-
-### Computation Times
-
-Although this project was not focused on developing the most optimized algorithms, comparing the computation times allows us to verify the speed gains of the recursive and iterative approaches.
-
-![tabela](https://user-images.githubusercontent.com/80169619/134504852-5dd00c51-a56f-4a2d-8a8f-214710ffb2f7.PNG)
